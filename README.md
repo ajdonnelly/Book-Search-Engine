@@ -8,6 +8,9 @@ Deploy the application to Heroku.
 
 Before you start, clone the starter code (Links to an external site.).
 
+Deployment to Heroku Using MongoDB Atlas
+Finally, the budget tracker has a server and uses MongoDB as its database, so you’ll need to deploy this application to Heroku using MongoDB Atlas. To review this process, look at Module 18: NoSQL, Lesson 5: Add Mongoose Validation, specifically 18.5.5: Deploy to Heroku.
+
 User Story
 AS AN avid reader
 I WANT to search for new books to read
