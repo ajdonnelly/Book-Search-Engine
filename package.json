@@ -18,11 +18,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "apollo-mocked-provider": "^4.0.1",
     "apollo-server-express": "^2.19.0",
     "bcrypt": "^5.0.0",
     "express": "^4.17.1",
+    "graphql-tag": "^2.11.0",
     "if-env": "^1.0.4",
     "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
     "mongoose": "^5.10.15"
   },
   "devDependencies": {
